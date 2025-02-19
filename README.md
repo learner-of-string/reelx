@@ -1,7 +1,8 @@
 # Hi,
 ### This is ReelX, an open-source project by me. Welcome To ReelX, just watch your favorite movies at relax.
 
-**Here is the source code:** [ReelX](https://github.com/learner-of-string/reelx-sources/)?
+**Here is the source code:** [ReelX](https://github.com/learner-of-string/reelx-sources/)
+**Here is the optimized version:** [ReelX](https://learner-of-string.github.io/reelx/)
 
 ### What is ReelX?
 
